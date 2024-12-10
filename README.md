@@ -21,13 +21,13 @@ This is a hands-on workshop on analyzing Social Media Data using Cloud Databases
 ## Learning Objectives
 
 After completing Cloud SQL Databases, you will be able to:
-• Understand the basics of Google Cloud Platform (GCP) and BigQuery.
-• Explore and query public datasets on BigQuery, focusing on Reddit and Wikipedia data.
-• Perform complex SQL queries to extract meaningful insights from large datasets.
-• Cross-reference Reddit and Wikipedia data with other public datasets.
-• Import external data (e.g., data available through the UC Berkeley Library) into BigQuery.
-• Use Python and PRAW to scrape recent Reddit data and import it into BigQuery.
-• Develop skills in data analysis relevant to computational social science.
+- Understand the basics of Google Cloud Platform (GCP) and BigQuery.
+- Explore and query public datasets on BigQuery, focusing on Reddit and Wikipedia data.
+- Perform complex SQL queries to extract meaningful insights from large datasets.
+- Cross-reference Reddit and Wikipedia data with other public datasets.
+- Import external data (e.g., data available through the UC Berkeley Library) into BigQuery.
+- Use Python and PRAW to scrape recent Reddit data and import it into BigQuery.
+- Develop skills in data analysis relevant to computational social science.
     
 This workshop does **not** cover the following:
 - Basics of SQL or Python. This is covered in [SQL Fundamentals](https://github.com/dlab-berkeley/SQL-Fundamentals/).
