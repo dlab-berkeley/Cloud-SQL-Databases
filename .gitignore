@@ -1,2 +1,4 @@
 .history/
 .ipynb_checkpoints/
+.envrc
+.env
