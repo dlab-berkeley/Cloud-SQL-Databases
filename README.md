@@ -14,7 +14,7 @@ Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops
 
 ## Workshop Goals
 
-This is a hands-on workshop on analyzing Social Media Data using Cloud Databases, specifically Google Cloud Platform's BigQuery. In this session, you'll learn how to leverage existing Reddit and other publicly available datasets in the cloud, import additional data, and perform meaningful analyses relevant to social science research. By the end of this workshop, you will:
+This is a hands-on workshop on analyzing Social Media Data using Cloud Databases, specifically Google Cloud Platform's BigQuery. In this session, you'll learn how to leverage existing Reddit and other publicly available datasets in the cloud, import additional data, and perform meaningful analyses relevant to social science research.
 
 **NOTE for LBL Employees:** Please be aware that for LBNL employees all research use of social media data and publicly available data about people must be reviewed by the The Human & Animal Regulatory Committees (HARC) Office. Email HARC@lbl.gov(link sends e-mail) for more information.
 
